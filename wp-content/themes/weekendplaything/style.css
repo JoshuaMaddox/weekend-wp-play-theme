@@ -10,3 +10,11 @@ Version: 1.0.0
 body {
   background-color: lightgrey;
 }
+
+.post-category {
+  background-color: red;
+}
+
+.post {
+  background-color: blue;
+}
