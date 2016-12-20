@@ -15,6 +15,8 @@
 <body>
   <div class="weekend-main-wrapper">
     <h1>Here is the main-header.php file being pulled from header.php</h1>
+    <!-- Function to add the search bar -->
+    <?php get_search_form(); ?>
   </div>
   
 
